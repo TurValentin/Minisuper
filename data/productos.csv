@@ -1,31 +1,31 @@
 supermercado,categoria,nombre,descripcion,precio
-carrefour-ar,bebidas_gaseosas,Coca-Cola 2.25L,Botella plástica,750
-carrefour-ar,bebidas_gaseosas,Pepsi 2.25L,Botella plástica,700
-carrefour-ar,bebidas_agua,Agua mineral Eco de los Andes 1.5L,Botella plástica,250
-carrefour-ar,bebidas_agua,Agua saborizada Levité limón 1.5L,Botella plástica,300
-carrefour-ar,lacteos_leche,Leche entera La Serenísima 1L,Sachet,350
-carrefour-ar,lacteos_leche,Leche descremada Sancor 1L,Sachet,340
-carrefour-ar,lacteos_yogures,Yogur bebible Ser frutilla 1L,Botella plástica,400
-carrefour-ar,lacteos_yogures,Yogur firme Ilolay vainilla 190g,Envase plástico,200
+carrefour-ar,bebidas,Coca-Cola 2.25L,Botella plástica,750
+carrefour-ar,bebidas,Pepsi 2.25L,Botella plástica,700
+carrefour-ar,bebidas,Agua mineral Eco de los Andes 1.5L,Botella plástica,250
+carrefour-ar,bebidas,Agua saborizada Levité limón 1.5L,Botella plástica,300
+carrefour-ar,lacteos,Leche entera La Serenísima 1L,Sachet,350
+carrefour-ar,lacteos,Leche descremada Sancor 1L,Sachet,340
+carrefour-ar,lacteos,Yogur bebible Ser frutilla 1L,Botella plástica,400
+carrefour-ar,lacteos,Yogur firme Ilolay vainilla 190g,Envase plástico,200
 carrefour-ar,panaderia,Pan lactal Fargo blanco 500g,Paquete,450
 carrefour-ar,panaderia,Pan de campo Bimbo 600g,Paquete,500
-carrefour-ar,almacen_fideos,Fideos Matarazzo tirabuzón 500g,Paquete,300
-carrefour-ar,almacen_fideos,Fideos Lucchetti spaghetti 500g,Paquete,320
-carrefour-ar,almacen_arroz,Arroz Gallo Oro 1kg,Paquete,400
-carrefour-ar,almacen_arroz,Arroz Dos Hermanos largo fino 1kg,Paquete,380
-carrefour-ar,almacen_aceite,Aceite Natura girasol 900ml,Botella plástica,600
-carrefour-ar,almacen_aceite,Aceite Cocinero girasol 1.5L,Botella plástica,950
-carrefour-ar,almacen_azucar,Azúcar Ledesma 1kg,Paquete,350
-carrefour-ar,almacen_azucar,Azúcar Chango 1kg,Paquete,340
-carrefour-ar,almacen_harina,Harina Pureza 000 1kg,Paquete,300
-carrefour-ar,almacen_harina,Harina Blancaflor leudante 1kg,Paquete,320
-carrefour-ar,almacen_yerba,Yerba Mate Taragüi 1kg,Paquete,800
-carrefour-ar,almacen_yerba,Yerba Mate Rosamonte 1kg,Paquete,850
-carrefour-ar,almacen_dulces,Dulce de leche La Serenísima 400g,Pote plástico,450
-carrefour-ar,almacen_dulces,Dulce de leche San Ignacio 400g,Pote plástico,470
-carrefour-ar,limpieza_detergente,Detergente Magistral limón 750ml,Botella plástica,500
-carrefour-ar,limpieza_detergente,Detergente Ala ultra 750ml,Botella plástica,480
-carrefour-ar,limpieza_jabon,Jabón en polvo Ala 3kg,Bolsa,1200
-carrefour-ar,limpieza_jabon,Jabón en polvo Skip 3kg,Bolsa,1300
-carrefour-ar,higiene_papel,Papel higiénico Higienol 4 rollos,Paquete,600
-carrefour-ar,higiene_papel,Papel higiénico Elite 4 rollos,Paquete,620
+carrefour-ar,almacen,Fideos Matarazzo tirabuzón 500g,Paquete,300
+carrefour-ar,almacen,Fideos Lucchetti spaghetti 500g,Paquete,320
+carrefour-ar,almacen,Arroz Gallo Oro 1kg,Paquete,400
+carrefour-ar,almacen,Arroz Dos Hermanos largo fino 1kg,Paquete,380
+carrefour-ar,almacen,Aceite Natura girasol 900ml,Botella plástica,600
+carrefour-ar,almacen,Aceite Cocinero girasol 1.5L,Botella plástica,950
+carrefour-ar,almacen,Azúcar Ledesma 1kg,Paquete,350
+carrefour-ar,almacen,Azúcar Chango 1kg,Paquete,340
+carrefour-ar,almacen,Harina Pureza 000 1kg,Paquete,300
+carrefour-ar,almacen,Harina Blancaflor leudante 1kg,Paquete,320
+carrefour-ar,almacen,Yerba Mate Taragüi 1kg,Paquete,800
+carrefour-ar,almacen,Yerba Mate Rosamonte 1kg,Paquete,850
+carrefour-ar,almacen,Dulce de leche La Serenísima 400g,Pote plástico,450
+carrefour-ar,almacen,Dulce de leche San Ignacio 400g,Pote plástico,470
+carrefour-ar,limpieza,Detergente Magistral limón 750ml,Botella plástica,500
+carrefour-ar,limpieza,Detergente Ala ultra 750ml,Botella plástica,480
+carrefour-ar,limpieza,Jabón en polvo Ala 3kg,Bolsa,1200
+carrefour-ar,limpieza,Jabón en polvo Skip 3kg,Bolsa,1300
+carrefour-ar,higiene,Papel higiénico Higienol 4 rollos,Paquete,600
+carrefour-ar,higiene,Papel higiénico Elite 4 rollos,Paquete,620
