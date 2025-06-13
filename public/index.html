@@ -12,7 +12,7 @@
     <h1>🛒 API de Simulación de Supermercado</h1>
 
    <div class="formulario">
-  <!-- Selector de Método (existente) -->
+  
   <label for="metodo">Método:</label>
   <select id="metodo">
     <option value="GET">GET</option>
@@ -21,7 +21,7 @@
     <option value="DELETE">DELETE</option>
   </select>
 
-  <!-- Selector Mejorado de Endpoints -->
+
   <label for="endpoint-select">Endpoint:</label>
   <select id="endpoint-select">
     <option value="">-- Seleccione --</option>
@@ -31,7 +31,7 @@
     <option value="/proveedores">/proveedores</option>
   </select>
 
-  <!-- Campo dinámico para ID -->
+
   <div id="id-container" style="display: none;">
     <label for="id-producto">ID Producto:</label>
     <input type="number" id="id-producto" placeholder="Ej: 1">
@@ -40,23 +40,23 @@
   <button onclick="hacerConsulta()">Enviar</button>
 </div>
     </div>
-    <h2>📦 Resultado</h2>
+    <h2> Resultado</h2>
     <pre id="resultado">{}</pre>
 
     <div id="formulario-datos" style="display: none">
-      <h3>📝 Datos del Producto</h3>
+      <h3> Datos del Producto</h3>
    <input type="text" id="nombre-producto" placeholder="Nombre" required />
 <input type="number" id="precio" placeholder="Precio" required />
 <input type="number" id="proveedor" placeholder="ID Proveedor" required />
 <input type="number" id="categoria" placeholder="ID Categoría" required />
      
-      <!-- Nuevo campo -->
+      
     </div>
 
-    <!-- Cambia esto: -->
+    
     <script src="interfaz.js"></script>
-    <!-- Nuevo archivo para lógica de UI -->
+  
     <script src="index.js"></script>
-    <!-- Tu archivo existente -->
+  
   </body>
 </html>

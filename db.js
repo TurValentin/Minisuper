@@ -63,7 +63,6 @@ async function actualizarProducto(id, datos) {
   return result[0];
 }
 
-// DELETE
 async function eliminarProducto(id) {
   const query = `DELETE FROM productos WHERE id = ${id}`;
   await db.sql(query);
